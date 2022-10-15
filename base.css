@@ -1,0 +1,7 @@
+.aperfeiçoamento{
+    text-align: center;
+    
+}
+.corzinha tr:nth-child(ODD){
+    background-color: lightskyblue;
+}
